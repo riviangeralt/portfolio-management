@@ -2,6 +2,11 @@
 
 A portfolio management application built with React, TypeScript, and Vite.
 
+## Links
+
+- **Live Demo**: [https://qodeinvest-assignment.netlify.app/](https://qodeinvest-assignment.netlify.app/)
+- **GitHub Repository**: [https://github.com/riviangeralt/portfolio-management](https://github.com/riviangeralt/portfolio-management)
+
 ## Prerequisites
 
 - Node.js (v18 or higher recommended)
