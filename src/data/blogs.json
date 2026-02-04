@@ -1,0 +1,214 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Understanding React Components",
+      "author": "John Doe",
+      "content": "React components are the building blocks of any React application. They allow you to split the UI into independent, reusable pieces.",
+      "date": 1704067200000
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with TypeScript",
+      "author": "Jane Smith",
+      "content": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It helps developers write safer and more maintainable code.",
+      "date": 1704153600000
+    },
+    {
+      "id": 3,
+      "title": "Introduction to Vite",
+      "author": "Alice Johnson",
+      "content": "Vite is a modern frontend build tool that provides a fast and optimized development experience for modern web projects.",
+      "date": 1704240000000
+    },
+    {
+      "id": 4,
+      "title": "State Management in React",
+      "author": "Chris Lee",
+      "content": "State management is crucial in React applications. Learn about tools like Redux, Context API, and Zustand.",
+      "date": 1704326400000
+    },
+    {
+      "id": 5,
+      "title": "Building Responsive Layouts with CSS Grid",
+      "author": "Emily Davis",
+      "content": "CSS Grid is a powerful layout system for creating responsive designs.",
+      "date": 1704412800000
+    },
+    {
+      "id": 6,
+      "title": "JavaScript ES6 Features",
+      "author": "Michael Brown",
+      "content": "Explore the new features introduced in ES6, including arrow functions, template literals, and destructuring.",
+      "date": 1704499200000
+    },
+    {
+      "id": 7,
+      "title": "Introduction to Node.js",
+      "author": "Sarah Wilson",
+      "content": "Node.js allows developers to use JavaScript for server-side programming.",
+      "date": 1704585600000
+    },
+    {
+      "id": 8,
+      "title": "Understanding Promises in JavaScript",
+      "author": "David Clark",
+      "content": "Promises are a way to handle asynchronous operations in JavaScript.",
+      "date": 1704672000000
+    },
+    {
+      "id": 9,
+      "title": "Building REST APIs with Express.js",
+      "author": "Sophia Martinez",
+      "content": "Express.js is a minimal and flexible Node.js web application framework.",
+      "date": 1704758400000
+    },
+    {
+      "id": 10,
+      "title": "Introduction to Webpack",
+      "author": "James Anderson",
+      "content": "Webpack is a static module bundler for modern JavaScript applications.",
+      "date": 1704844800000
+    },
+    {
+      "id": 11,
+      "title": "Understanding React Hooks",
+      "author": "Olivia Taylor",
+      "content": "React Hooks allow you to use state and other React features without writing a class.",
+      "date": 1704931200000
+    },
+    {
+      "id": 12,
+      "title": "Building Forms in React",
+      "author": "Liam Thomas",
+      "content": "Learn how to build and validate forms in React applications.",
+      "date": 1705017600000
+    },
+    {
+      "id": 13,
+      "title": "Introduction to GraphQL",
+      "author": "Emma White",
+      "content": "GraphQL is a query language for APIs and a runtime for executing those queries.",
+      "date": 1705104000000
+    },
+    {
+      "id": 14,
+      "title": "Understanding React Router",
+      "author": "Noah Harris",
+      "content": "React Router is a library for routing in React applications.",
+      "date": 1705190400000
+    },
+    {
+      "id": 15,
+      "title": "Building a Blog with Next.js",
+      "author": "Ava Martin",
+      "content": "Next.js is a React framework for building server-side rendered applications.",
+      "date": 1705276800000
+    },
+    {
+      "id": 16,
+      "title": "Introduction to Tailwind CSS",
+      "author": "Isabella Thompson",
+      "content": "Tailwind CSS is a utility-first CSS framework for building custom designs.",
+      "date": 1705363200000
+    },
+    {
+      "id": 17,
+      "title": "Understanding TypeScript Generics",
+      "author": "Mason Garcia",
+      "content": "Generics provide a way to create reusable and flexible components in TypeScript.",
+      "date": 1705449600000
+    },
+    {
+      "id": 18,
+      "title": "Building a Portfolio Website",
+      "author": "Mia Robinson",
+      "content": "Learn how to create a personal portfolio website using React and Tailwind CSS.",
+      "date": 1705536000000
+    },
+    {
+      "id": 19,
+      "title": "Introduction to Testing in React",
+      "author": "Ethan Walker",
+      "content": "Testing is an essential part of software development. Learn how to test React components.",
+      "date": 1705622400000
+    },
+    {
+      "id": 20,
+      "title": "Understanding JavaScript Closures",
+      "author": "Charlotte Hall",
+      "content": "Closures are a fundamental concept in JavaScript that every developer should understand.",
+      "date": 1705708800000
+    },
+    {
+      "id": 21,
+      "title": "Building a Todo App with React",
+      "author": "Lucas Allen",
+      "content": "A step-by-step guide to building a simple Todo app using React.",
+      "date": 1705795200000
+    },
+    {
+      "id": 22,
+      "title": "Introduction to Progressive Web Apps",
+      "author": "Amelia Young",
+      "content": "Progressive Web Apps (PWAs) are web applications that provide a native app-like experience.",
+      "date": 1705881600000
+    },
+    {
+      "id": 23,
+      "title": "Understanding React Context API",
+      "author": "Harper King",
+      "content": "The Context API is a way to manage state globally in a React application.",
+      "date": 1705968000000
+    },
+    {
+      "id": 24,
+      "title": "Building a Chat App with Firebase",
+      "author": "Evelyn Wright",
+      "content": "Learn how to build a real-time chat application using Firebase and React.",
+      "date": 1706054400000
+    },
+    {
+      "id": 25,
+      "title": "Introduction to Docker",
+      "author": "Henry Scott",
+      "content": "Docker is a platform for developing, shipping, and running applications in containers.",
+      "date": 1706140800000
+    },
+    {
+      "id": 26,
+      "title": "Understanding JavaScript Async/Await",
+      "author": "Lily Green",
+      "content": "Async/Await makes it easier to work with asynchronous code in JavaScript.",
+      "date": 1706227200000
+    },
+    {
+      "id": 27,
+      "title": "Building a Weather App with React",
+      "author": "Jack Adams",
+      "content": "Create a weather application using React and a weather API.",
+      "date": 1706313600000
+    },
+    {
+      "id": 28,
+      "title": "Introduction to Web Accessibility",
+      "author": "Grace Nelson",
+      "content": "Web accessibility ensures that websites are usable by people with disabilities.",
+      "date": 1706400000000
+    },
+    {
+      "id": 29,
+      "title": "Understanding React PropTypes",
+      "author": "Benjamin Carter",
+      "content": "PropTypes are a way to validate the props passed to a React component.",
+      "date": 1706486400000
+    },
+    {
+      "id": 30,
+      "title": "Building a Blog with Gatsby",
+      "author": "Zoey Mitchell",
+      "content": "Gatsby is a React-based framework for building fast and modern websites.",
+      "date": 1706572800000
+    }
+  ]
+}
