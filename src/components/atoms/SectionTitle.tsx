@@ -1,4 +1,4 @@
-const SectionTitle = ({ title }) => {
+const SectionTitle = ({ title }: { title: string }) => {
   return (
     <h2 className="text-lg font-semibold mb-3">
       {title}
