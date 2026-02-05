@@ -1,4 +1,4 @@
-import { PerformanceChart } from "@/components/organisms";
+import { PerformanceChart, ReturnsTable } from "@/components/organisms";
 import { NavDataJson } from "@/data";
 import { calculateDrawdown } from "@/utils";
 import { useNavigate } from "react-router-dom";
@@ -23,6 +23,7 @@ const Portfolio = () => {
       </div>
 
       <PerformanceChart data={data} />
+      <ReturnsTable data={NavDataJson} />
     </div>
   );
 };
